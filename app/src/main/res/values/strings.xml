@@ -6,4 +6,21 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+
+    <string name="action_pressToExit">Press Back again to Exit</string>
+    <string name="defaultUserName">Please Login</string>
+    <string name="defaultUserMail">or create Account</string>
+
+    <string name="menu_titleGame">Games</string>
+    <string name="menu_titleSettings">Settings</string>
+    <string name="menu_myRecord">My Records</string>
+    <string name="menu_worldRecord">World Records</string>
+    <string name="game_1">Game mode 1</string>
+    <string name="game_2">Game mode 2</string>
+    <string name="game_3">Game mode 3</string>
+    <string name="game_4">Game mode 4</string>
+
+    <string name="settings_login">Login</string>
+    <string name="settings_logout">Logout</string>
+    <string name="settings_account">Account</string>
 </resources>
